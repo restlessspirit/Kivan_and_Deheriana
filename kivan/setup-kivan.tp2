@@ -8,39 +8,45 @@ README ~Kivan/readme-kivan-new.html~
 
 ALWAYS
 
-  ACTION_IF GAME_IS ~eet~ BEGIN
-    OUTER_SET bg2_chapter = 12
-  END ELSE BEGIN
-    OUTER_SET bg2_chapter = 0
-  END
-  OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
-    OUTER_SET bg2_chapter = bg2_chapter + 1
-    OUTER_SPRINT name_source ~bg2_chapter_%i%~
-    OUTER_SET EVAL ~%name_source%~ = bg2_chapter
-  END
+  ACTION_IF NOT VARIABLE_IS_SET cd_kivan_always THEN BEGIN
 
-  ACTION_IF NOT VARIABLE_IS_SET cd_always THEN BEGIN
+    OUTER_SET cd_kivan_always = 1 // just do this once per install
 
-    OUTER_SET cd_always = 1 // just do this once per install
-    
-    ACTION_DEFINE_ARRAY cdnoconvert BEGIN ~setup-ee~ END // since this file is only used for EE games, it's already converted to utf8
-    ACTION_DEFINE_ARRAY cdreload BEGIN setup journal END
-    LAF HANDLE_CHARSETS
-      INT_VAR
-        infer_charset = 1
-      STR_VAR
-        tra_path = EVAL ~%MOD_FOLDER%/tra~
-        // charset_table = cdcharsets // Included for illustrative purposes.
-        noconvert_array = cdnoconvert
-        reload_array = cdreload
+    ACTION_IF GAME_IS ~eet~ BEGIN
+      OUTER_SET bg2_chapter = 12
+    END ELSE BEGIN
+      OUTER_SET bg2_chapter = 0
     END
+    OUTER_FOR (i=1; i<=10; i=i+1) BEGIN
+      OUTER_SET bg2_chapter = bg2_chapter + 1
+      OUTER_SPRINT name_source ~bg2_chapter_%i%~
+      OUTER_SET EVAL ~%name_source%~ = bg2_chapter
+    END
+    
+    OUTER_SPRINT ~tra_location~ ~kivan/tra~   
+    
+    ACTION_IF GAME_IS ~bg2ee eet~ BEGIN 
+    
+      ACTION_DEFINE_ARRAY cdnoconvert BEGIN ~setup-ee~ END // since this file is only used for EE games, it's already converted to utf8
+      ACTION_DEFINE_ARRAY cdreload BEGIN setup journal END
+      LAF HANDLE_CHARSETS
+        INT_VAR
+          infer_charset = 1
+        STR_VAR
+          tra_path = EVAL ~%MOD_FOLDER%/tra~
+          out_path = ~weidu_external/kivan/tra~
+          // charset_table = cdcharsets // Included for illustrative purposes.
+          noconvert_array = cdnoconvert
+          reload_array = cdreload
+      END
+      
+    END  
   
   END
 
 END
 
-
-AUTO_TRA ~Kivan/tra/%s~
+AUTO_TRA ~%tra_location%/%s~
 
 LANGUAGE
   ~English~
