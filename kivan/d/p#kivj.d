@@ -237,7 +237,10 @@ END
 APPEND P#KIVJ
 
 IF WEIGHT #990
-~Global("P#KivanDrowReversal","GLOBAL",1)~ THEN BEGIN KivanNoDrow
+~Global("P#KivanDrowReversal","GLOBAL",1)
+ GlobalLT("P#KivanOffence","GLOBAL",10)
+ Global("udDrowPlot","GLOBAL",100)
+ AreaCheck("AR2402")~ THEN BEGIN KivanNoDrow
 SAY @659
 IF ~~ THEN DO ~SetGlobal("P#KivanDrowReversal","GLOBAL",2)~ EXIT
 END
@@ -250,7 +253,10 @@ END
 
 
 IF WEIGHT #990
-~Global("P#KivanKilledDragon","GLOBAL",1)~ THEN BEGIN KivanFirkraag
+~Global("P#KivanKilledDragon","GLOBAL",1)  
+ GlobalLT("P#KivanOffence","GLOBAL",10)
+ AreaCheck("AR1203")
+ Dead("firkra02")~ THEN BEGIN KivanFirkraag
 SAY @58
 ++ @59 DO ~SetGlobal("P#KivanKilledDragon","GLOBAL",2)~ + KivanDragon1.1
 ++ @60 DO ~SetGlobal("P#KivanKilledDragon","GLOBAL",2)~ + KivanDragon1.2
@@ -997,7 +1003,10 @@ END
 APPEND P#KIVJ
 
 IF WEIGHT #990 
-~Global("P#KivanCabin","GLOBAL",1)~ THEN BEGIN P#KivanCabin
+~Global("P#KivanCabin","GLOBAL",1)
+ GlobalLT("P#KivanOffence","GLOBAL",6)
+ AreaCheck("AR1102")
+ Global("P#KivanCabin","GLOBAL",0)~ THEN BEGIN P#KivanCabin
 SAY @232
 IF ~~ THEN DO ~SetGlobal("P#KivanCabin","GLOBAL",2)~ EXIT
 END

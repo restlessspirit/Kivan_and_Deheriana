@@ -593,7 +593,7 @@ IF
   Global("P#KivanKilledDragon","GLOBAL",0)
 THEN
   RESPONSE #100
-    IncrementGlobal("P#KivanKilledDragon","GLOBAL",1)
+    SetGlobal("P#KivanKilledDragon","GLOBAL",1)
     StartDialogueNoSet(Player1)
 END
 
@@ -847,7 +847,7 @@ IF
   Global("P#KivanDrowReversal","GLOBAL",0)
 THEN
   RESPONSE #100
-    IncrementGlobal("P#KivanDrowReversal","GLOBAL",1)
+    SetGlobal("P#KivanDrowReversal","GLOBAL",1)
     StartDialogueNoSet(Player1)
 END
 
@@ -1078,7 +1078,7 @@ IF
   Global("P#KivanCabin","GLOBAL",0)
 THEN
   RESPONSE #100
-    IncrementGlobal("P#KivanCabin","GLOBAL",1)
+    SetGlobal("P#KivanCabin","GLOBAL",1)
     StartDialogueNoSet(Player1)
 END
 
