@@ -30,8 +30,8 @@ IF
 Global("P#MalentiWaits","GLOBAL",1)
 THEN
 RESPONSE #100
-SetGlobal("P#MalentiWaits","GLOBAL",2)
 ActionOverride("seasnake",ApplySpell(Myself,DRYAD_TELEPORT))
+SetGlobal("P#MalentiWaits","GLOBAL",2)
 END
 
 IF
