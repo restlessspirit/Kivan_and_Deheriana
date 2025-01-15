@@ -21,8 +21,9 @@ IF
 Global("P#BetrayMalenti","GLOBAL",1)
 THEN
 RESPONSE #100
-SetGlobal("P#BetrayMalenti","GLOBAL",2)
 ActionOverride("seasnake",ApplySpell(Myself,DRYAD_TELEPORT))
+ActionOverride("seasnake",DestroySelf())
+SetGlobal("P#BetrayMalenti","GLOBAL",2)
 SetGlobal("hostilecity","GLOBAL",1)
 END
 
@@ -36,7 +37,7 @@ END
 
 IF
 PartyHasItem("P#IHTIA")
-!Exists("seasnake")
+!Exists("seasnake1")
 Global("Seasnake1Exists","Global",0)
 Global("P#MalentiWaits","GLOBAL",2)
 THEN
@@ -56,8 +57,8 @@ PartyHasItem("Miscbi")
 GlobalGT("villynatyjob","GLOBAL",1)
 THEN
 RESPONSE #100
-ActionOverride("seasnake",MoveToObject(Player1))
-ActionOverride("seasnake",StartDialogueNoSet(Player1))
+ActionOverride("seasnake1",MoveToObject(Player1))
+ActionOverride("seasnake1",StartDialogueNoSet(Player1))
 END
 
 
