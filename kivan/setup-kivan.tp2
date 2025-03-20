@@ -39,6 +39,8 @@ ALWAYS
           noconvert_array = cdnoconvert
           reload_array = cdreload
       END
+    
+      OUTER_SPRINT ~tra_location~ ~weidu_external/kivan/tra~   
       
     END  
   
