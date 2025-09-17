@@ -1,7 +1,7 @@
 @0    = ~<CHARNAME>, we should find out who owns the ring we found in the sewers.~
 @1    = ~It has a look of being old... There is a merchant in Promenade who deals in antiquities, Quataris. Perhaps he can tell us more about this ring.~
 /*
-@2    = ~The Lover's Ring
+@2    = ~°®ÂÂÖ®½ä
 
 Kivan thinks that we should talk to the merchant of antiquities, Quataris,  in the Promenade about the Lover's Ring.~
 */
@@ -20,7 +20,7 @@ Kivan thinks that we should talk to the merchant of antiquities, Quataris,  in t
 @15   = ~Ah, yes, it just came to me. The Jysstevs owned a ring very much like this one. A good family, them. Old blood... and rich.~
 @16   = ~Thank you.~
 /*
-@17   = ~The Lover's Ring
+@17   = ~°®ÂÂÖ®½ä
 
 Upon having his memory loss 'cured' by a small bribe, the merchant of antiquities in the Promenade recalled that the Jysstev family owned a ring similar to the one we found in the sewers. The Jysstevs, according to him, are old money. Perhaps, they'd pay me for returning the ring.~
 */
