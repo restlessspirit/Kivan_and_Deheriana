@@ -267,12 +267,12 @@ Now that the guardians have been summoned, Demin has left to aid the wounded in 
 @250 = ~嗯……既然你提起来，你的耳朵确实该好好清洗一下了。~
 @251 = ~什么？！~
 @252 = ~既然说到这些，你的流鼻涕问题也得处理一下……~
-@253 = ~黛芮——~
+@253 = ~黛赫瑞——~
 @254 = ~还有你的斗篷又小了！~
 @255 = ~哦！~
 @256 = ~看来你又得放宽衣缝线了，阿姨。我现在可以去玩了吗？行吗？求——求啦！~
 @257 = ~快去吧，亲爱的，去吧。别忘了洗耳朵！~
-@258 = ~马——上就去，芮娜阿姨！~
+@258 = ~马——上就去，瑞娜阿姨！~
 @259 = ~严肃阿姨居然会开玩笑？天啊，是不是接下来连齐冯也会恶作剧了？我可得瞧瞧！~
 @260 = ~You seem to have a frown for every occasion, Jaheira. How about a smile for a change?~
 @261 = ~Were I in your shoes, I would have smiled less often, Deheriana. I would have been concerned about the consequences of cheating the Great Mother.~
@@ -389,7 +389,7 @@ Now that the guardians have been summoned, Demin has left to aid the wounded in 
 @372 = ~<CHARNAME>，你要遣散我们吗？~ [P#DEH50]
 @373 = ~不，不！你误解我的意思了！~
 @374 = ~愿你珍重，黛赫瑞安娜。~
-@375 = ~再见，<CHARNAME>。我们要回西尔明斯塔了。Aa'menealle nauva calen ar'malta（愿你的道路绿意盎然，金碧辉煌）。~ [P#DEH51]
+@375 = ~再见，<CHARNAME>。我们要回西尔明斯塔了。Aa'menealle nauva calen ar'malta（愿你的道路常青，金黄洋溢）。~ [P#DEH51]
 @376 = ~齐冯……我想你了。你的朋友愿意让我同行吗？~ [P#DEH52]
 @377 = ~是的，我决定带你一起走。~
 @378 = ~请在这里稍作停留，稍后我会需要你的帮助。~
