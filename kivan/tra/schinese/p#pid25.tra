@@ -3,10 +3,10 @@
 @2    = ~Sut naa lle umien sina re, Kivan? How are you faring today, Kivan?~
 @3    = ~Can you say something in Elvish, Kivan?~
 @4    = ~Lle naa belegohtar - you are a mighty warrior.~
-@5    = ~Cormlle naa tanya tel'raa - your heart is that of a lion.~
+@5    = ~Cormlle naa tanya tel'raa¡ª¡ªÄãµÄÐÄ¸ÕÒãÈçÊ¨¡£~
 @6    = ~There is an old greeting: Elen sila lumenn omentilmo. It can be loosely translated as 'A star shall shine on the hour of our meeting.'~
 @7    = ~Mellonamin, if you wish to converse in Elvish to practice what lessons you have received in Candlekeep, let us do so, but I do not see any value in me uttering a few words in my tongue solely for amusing you.~
-@8    = ~Cuamin linduva yassen megrille - my bow shall sing with your sword.~
+@8    = ~Cuamin linduva yassen megrille¡ª¡ªÄãÎÒ²¢¼ç£¬¹­½£ÆëÃù¡£~
 @9    = ~I'narr en gothrim glinuva nuin I'anor! I think the battle cry of Cormanthir is appropriate today: "The bones of our foes will gleam under the sun".~
 @10   = ~Lle quena i'lambe tel' Eldalie, <CHARNAME>? Do you speak Elvish, <CHARNAME>?~
 @11   = ~Vanimle sila tiri, arwenamin <CHARNAME>. Your beauty shines bright, my lady <CHARNAME>.~
@@ -280,7 +280,7 @@
 @279  = ~Do not worry, I will brush and braid it back for you. (With that, he immediately applies himself to the task.)~
 @280  = ~Enough, enough! (He laughs so hard that it takes him a few moments to get the words out.)~
 @281  = ~(Kivan drops kisses on your hair) I will re-braid it for you, isilme.~
-@282  = ~A'mael'amin, a whirlwind could not have done a better… or worse job of it. Now, let me help you to restore some order...~
+@282  = ~A'mael'amin, a whirlwind could not have done a better?or worse job of it. Now, let me help you to restore some order...~
 @283  = ~Ding-dong, I am a silver bell
 I am a bluebell in the dell.~
 @284  = ~Hmm... did a bramble or rosebush catch my hair?~

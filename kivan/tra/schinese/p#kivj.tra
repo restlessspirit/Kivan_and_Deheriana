@@ -1,10 +1,10 @@
 @0    = ~太多同胞都葬身在了这座城市里。我会为他们复仇，也会陪你走到最后。~
 @1    = ~是的，<CHARNAME>，我已经准备好了。~
-@2    = ~Cuamin linduva yassen megrille（让我们再次弓剑齐鸣）。~
+@2    = ~Cuamin linduva yassen megrille（你我并肩，弓剑齐鸣）。~
 @3    = ~一切都将在这此终结，不是吗？~
 @4    = ~<CHARNAME>，我们不要带着未及曾倾诉的话语走向死亡。~
 @5    = ~如果世界不是这样，我会在星光闪耀的夜晚对你诉说万千美妙的话语，献上细数不尽的赞美。但我心中的热情已耗尽，再没什么可以给你了。~
-@6    = ~固执的男人啊，你不必总是付出，也不用一直索求。有些东西你一直……拥有着，就像你拥有我的爱。~
+@6    = ~固执的人呐，你不必总是付出，也不用一直索求。有些东西你一直……拥有着，就像你拥有我的爱。~
 @7    = ~我知道，齐冯。但这不是我此刻想要的答案。你愿意和我一起穿过这扇门吗？你愿意为我直面死亡吗？~
 @8    = ~齐冯，拜托，现在不是时候！我来这儿只为杀戮，不是来谈情说爱的。~
 @9    = ~我亲爱的精灵，我不明白你为什么会认为我在追求你的爱。看我口型：“齐冯，我不爱你。”~
@@ -410,7 +410,7 @@
 @403  = ~My noble friend, I am proud of your actions.~
 @404  = ~A pleasure slave... This place makes me ill. The <CHARNAME> I knew in Baldur's Gate would help these people, not take advantage of their miserable condition.~
 @405  = ~A pleasure slave... This place makes me ill. The <CHARNAME> I knew in Baldur's Gate would help these people, not take advantage of their miserable condition.~
-@406  = ~驯兽师？说真的，我对这个可恶的地方了解的越多，就越想彻底捣毁它。在这里连游侠都会堕落。~
+@406  = ~驯兽师？说真的，我对这个可恶的地方了解的越多，就越想彻底捣毁它。竟连游侠都在此地堕落。~
 @407  = ~<CHARNAME>, Hendak sounds like a strong man who would be able to clean this place and keep it decent. I suggest we free the gladiators and help them to destroy Lehtinan.~
 @408  = ~<CHARNAME>, I urge you to reconsider. By Shaundakul, one does not refuse people who need help so desperately.~
 @409  = ~这真是个高贵的行为。~
@@ -540,7 +540,7 @@
 @533  = ~（你什么也没说。）~
 @534  = ~哦，齐冯，齐冯……（你叹了口气。）你一定要这么固执吗……~
 @535  = ~齐冯，我无法用言语表达我对你的忠诚和友谊的珍视。但我寻求的不仅仅是复仇，还有纠正艾瑞尼卡斯所造成的错误。树精们告诉我，当我把橡实带到风矛之丘，女王就能够让她们的树茁壮生长，以释放这些可怜的生物。要是我知道风矛之丘在哪里就好了！~
-@536  = ~我知道：我能从你的眼睛里看到，从你的声音里听到。Cormlle naa tanya tel'raa（你有一颗雄狮之心），你打过很多仗，也赢过很多仗。我是来解救你的，尽管我毫不惊讶地看到你已经挣脱了束缚。不过，我还来得及帮你追踪那头野兽。因为我什么也做不了，只希望那个伤害你的人向我认罪。~
+@536  = ~我知道：我能从你的眼睛里看到，从你的声音里听到。Cormlle naa tanya tel'raa（你的心刚毅如狮），你打过很多仗，也赢过很多仗。我是来解救你的，尽管我毫不惊讶地看到你已经挣脱了束缚。不过，我还来得及帮你追踪那头野兽。因为我什么也做不了，只希望那个伤害你的人向我认罪。~
 @537  = ~他会为他所有的罪行负责，我会确保这一点。~
 @538  = ~<CHARNAME>！<CHARNAME>！Ed' i'ear ar'elenea（海洋与星辰在上）！你又把伤口扯开了吗？~
 @539  = ~哦，希达林诸神啊……<CHARNAME>，n'lava（不要屈服）……不要向它屈服。~

@@ -12,7 +12,7 @@
 @11   = ~Can you say something in Elvish, Kivan?~
 @12   = ~Who are we to one another, Kivan? Friends? Comrades at arms?~
 @13   = ~What does it mean to be elven, Kivan?~
-@14   = ~Kivan, I have enchanted an item... a trinket. It will ward off bad dreams. It will not affect your reveries, but... at least you can chose to rest when you need to.~
+@14   = ~齐冯，我附魔了一项物件……一件饰品。它将驱散梦魇，但不会扰动你的冥想……至少,当你需要休息时，尚能够选择安宁。~
 @15   = ~(Straighten the hood of Kivan's cloak.)~
 @16   = ~(Walk near Kivan.)~
 @17   = ~(Catch Kivan's hand in yours.)~
@@ -528,10 +528,10 @@ But I step back into the night.~
 @493  = ~To makes things worse, some species can grow in an instant from a severed limb or a chopped up body.~
 @494  = ~There is none for it but to try to char them with fire or acid. Let us hope it works.~
 @495  = ~Lle naa belegohtar - you are a mighty warrior.~
-@496  = ~Cormlle naa tanya tel'raa - your heart is that of a lion.~
+@496  = ~Cormlle naa tanya tel'raa——你的心刚毅如狮。~
 @497  = ~There is an old greeting: Elen sila lumenn omentilmo. It can be loosely translated as 'A star shall shine on the hour of our meeting.'~
 @498  = ~Mellonamin, if you wish to converse in Elvish to practice what lessons you have received in Candlekeep, let us do so, but I do not see any value in me uttering a few words in my tongue solely for amusing you.~
-@499  = ~Cuamin linduva yassen megrille - my bow shall sing with your sword.~
+@499  = ~Cuamin linduva yassen megrille——你我并肩，弓剑齐鸣。~
 @500  = ~I'narr en gothrim glinuva nuin I'anor! I think the battle cry of Cormanthir is appropriate today: "The bones of our foes will gleam under the sun".~
 @501  = ~Lle quena i'lambe tel' Eldalie, <CHARNAME>? Do you speak Elvish, <CHARNAME>? ~
 @502  = ~(with a polite smile) Vanimle sila tiri, arwenamin <CHARNAME>. Your beauty shines bright, my lady <CHARNAME>.~
@@ -550,7 +550,7 @@ But I step back into the night.~
 @515  = ~I hail from the elven forest of Shilmista, which is ruled by valiant King Elbereth. My kin was recently diminished in a war against foul army gathered by the followers of Talona, the Lady of Poison.~
 @516  = ~Shevarash called upon me to destroy the evil Ogre, Tazok. Now the Black Archer guides my arrows when they are aimed at those who slaughter innocents. ~
 @517  = ~My friend, I have already told you more of myself than to anyone else, save Deheriana.~
-@518  = ~Thank you, mellonamin. It is a wondrous gift... (Kivan puts your creation around his neck. Feathers and beads look a part of him already.)~
+@518  = ~谢谢你，mellonamin（我的朋友）。这是份无与伦比的馈赠……（齐冯将你的造物绕脖系上。羽毛与珠子仿佛本就是他的一部分，显得……浑然天成。）~
 @519  = ~I'quelin Mori'Quessier naa ba Mori'Quessir. I will let Viconia translate this.~
 @520  = ~I did not lower myself to learn the foul language of faeries.~
 @521  = ~(Kivan visibly relaxes, and closes his eyes.)~

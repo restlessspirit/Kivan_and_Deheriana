@@ -57,8 +57,8 @@
 @54   = ~Mae govannen! (Well met!)~ [P#DEH06]
 @55   = ~Amin anta est. (I need to rest.)~ [P#DEH07]
 @56   = ~Lle merna aut? (Shall we go?)~ [P#DEH08]
-@57   = ~I'narr en gothrim glinuva nuin I'anor. (The bones of our foes will gleam under the sun.)~ [P#DEH09]
-@58   = ~Cuamin linduva yassen megrille! (My bow shall sing with your sword!)~ [P#DEH10]
+@57   = ~I'narr en gothrim glinuva nuin I'anor!（仇敌的尸骨必在烈日下泛光！）~ [P#DEH09]
+@58   = ~Cuamin linduva yassen megrille！（你我并肩，弓剑齐鸣！）~ [P#DEH10]
 @59   = ~Amin khiluva lle a' gurtha ar' thar! (I will follow you to death and beyond!)~ [P#DEH11]
 @60   = ~Nadorhuanrim! (Cowardly dogs!)~ [P#DEH12]
 @61   = ~Tua amin! (Help me!)~ [P#DEH13]
@@ -94,13 +94,13 @@
 @91   = ~En! Ta naa neuma! (Look! It is a trap!)~ [P#DEH43]
 @92   = ~For a long time DEHERIANA was but a name for you, but a name that you heard often from her widowed husband - Kivan. Touched by his grief, you insisted that the High Priestess Demin of Suldanessellar resurrected the ranger's beloved. Only time will tell if your decision was right or wrong.~
 
-@93   = ~Dreamcatcher Amulet~
-@94   = ~<CHARNAME> of Candlekeep added feathers and beads onto a simple leather cord, and made knots on it using the ancient magic, and thus she enchanted this simple necklace to ward off bad dreams.~
+@93   = ~捕梦护符~
+@94   = ~烛堡的<CHARNAME>取一条朴素皮绳，缀上羽毛同珠子，并以古代魔法编织绳结。藉此，她赋予这件寻常饰物驱散梦魇的魔力。 ~
 
 @95   = ~塔佐克的心脏~
 @96   = ~这是塔佐克的心脏。~
 @97   = ~齐冯的弓~
-@98   = ~这把长弓是齐冯的妻子黛赫瑞安娜送给他的结婚礼物。
+@98   = ~这把长弓是齐冯的妻子黛赫瑞安娜赠与他的结婚礼物。
 
 数据资料：
 
@@ -117,7 +117,7 @@
 
 可以使用的角色：
 齐冯~
-@99   = ~这把长弓是齐冯的妻子黛赫瑞安娜送给他的结婚礼物。尼罗斯·盖兰塔拉用树精发辫编织了一根弓弦，赋予这把弓更强的杀伤力。
+@99   = ~这把长弓是齐冯的妻子黛赫瑞安娜赠与他的结婚礼物。尼罗斯·盖兰塔拉用树精发辫编织了一根弓弦，赋予这把弓更强的杀伤力。
 
 数据资料：
 
