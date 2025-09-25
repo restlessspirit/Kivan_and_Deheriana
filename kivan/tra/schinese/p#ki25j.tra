@@ -21,7 +21,7 @@
 @20   = ~Yes, I decided to bring you along.~
 @21   = ~Please, stay here awhile. I will need your help later.~
 @22   = ~Deheriana, I decided that Kivan and you should be together. I wish you both well.~
-@23   = ~As you wish.~
+@23   = ~如你所愿。~
 @24   = ~Fare thee well, <CHARNAME>, from both of us. We shall return to Shilmista then.~ [P#DEH51]
 @25   = ~Please, do not tell me that Kivan is no more...~ [P#DEH53]
 @26   = ~Kivan is fine, but I thought that I might need your help.~
@@ -103,8 +103,8 @@
 @102  = ~若真如此，那也不是第一次了。但我觉得这不会发生。我们知己知彼，有备而来。~
 @103  = ~我很高兴你还在乎，<CHARNAME>。我还担心萨拉都什的失败会泯灭你的善心，让你觉得仁慈毫无用处呢。~
 @104  = ~这个女巫怎么能把森林之灵束缚在她的邪恶意志之下呢？如果世上的森林都被腐化到听从这种人的召唤，那我们精灵可就惨了！~
-@105  = ~This woman has a fierce spirit that reminds me of you, <CHARNAME>, but none of your goodness and wisdom.~
-@106  = ~你不该夺走她的心，雅加苏拉。你不该夺走她的心。~ [KIVAN132]
+@105  = ~<CHARNAME>，这名女子的灵魂有一股桀骜不驯的魄力。这点倒让我想起你来，只是其中并无半分你的仁慈与智慧。~
+@106  = ~你万不该攫取她的心脏，雅加苏拉。你万不该盗走她的心。~ [KIVAN132]
 @107  = ~派前任监禁所囚犯去对付疯子？可太合适了。~
 @108  = ~没错。或许我们还能和这个葛罗姆尼尔找到共同目标呢。~
 @109  = ~我们还被判定精神正常呢！我神志清醒，深感自豪。~
